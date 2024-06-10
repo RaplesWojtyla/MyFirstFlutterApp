@@ -1,6 +1,6 @@
 # hello_flutter_1
 
-A new Flutter project.
+Aplikasi android yang bisanya masih ngeklik tombol doang
 
 ## Getting Started
 
